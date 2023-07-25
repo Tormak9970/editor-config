@@ -1,0 +1,16 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorCustomizations": {
+    
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "support.type.property-name.json",
+        "settings": {
+          "foreground": "#7FB785",
+        }
+      }
+    ]
+  }
+}
